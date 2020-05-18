@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="gmall_parent">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/common/common-util/src/main/java" />
+      <root url="file://$PROJECT_DIR$/common/service-util/src/main/java" />
+      <root url="file://$PROJECT_DIR$/model/src/main/java" />
+      <root url="file://$PROJECT_DIR$/service/service-product/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
